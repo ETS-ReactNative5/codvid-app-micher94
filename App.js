@@ -21,7 +21,7 @@ class App extends React.Component {
             "method": "GET",
             "headers": {
                 "x-rapidapi-host": "covid-19-data.p.rapidapi.com",
-                "x-rapidapi-key": "14569dc2bemshda7b04ec842b239p123fb9jsnbb792e420f63"
+                "x-rapidapi-key": "your key here"
             }
         })
         //fetch("https://api.covid19api.com/summary")
