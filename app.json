@@ -1,0 +1,17 @@
+{
+  "name": "CovidMap",
+  "displayName": "CovidMap",
+  "expo": {
+    "name": "CovidMap",
+    "slug": "CovidMap",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
